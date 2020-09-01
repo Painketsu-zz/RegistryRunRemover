@@ -1,5 +1,5 @@
 # RegistryRunRemover
-Remove any key from Win+R registry, this program is meant to be used along with https://github.com/Painketsu-zz/RegistryRunAdder
+Remove any key from Win+R registry, this program is meant to be used along with https://github.com/Painketsu/RegistryRunAdder
 
 It wont ever remove any important registry keys in case of error, only Win+R keys but still use with caution.
 
